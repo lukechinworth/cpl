@@ -4,11 +4,8 @@ int main()
 {
     int c;
 
-    while ((c = getchar()) != EOF)
+    while ((c = (getchar() != EOF)) > 0)
     {
-        if (c != 10)
-        {
-            putchar(c);
-        }
+        printf("%d\n", c);
     }
 }

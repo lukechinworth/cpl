@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// convert fahr to cels using a while loop.
 int main()
 {
     float fahr, cels;

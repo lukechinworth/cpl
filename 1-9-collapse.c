@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// collapse multiple spaces into 1.
 int main()
 {
     int c, p;

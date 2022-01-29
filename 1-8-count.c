@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// count the new lines, tabs, and spaces.
 int main()
 {
     int c, b, t, nl;

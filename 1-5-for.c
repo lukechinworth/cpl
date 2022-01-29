@@ -4,6 +4,7 @@
 #define UPPER 300
 #define STEP 20
 
+// convert some fahr to cels using a for loop.
 int main()
 {
     float fahr, cels;
