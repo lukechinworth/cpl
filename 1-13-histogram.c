@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// print input one word per line.
+// print histogram of "word"s by length
 int main()
 {
     int c, i, j, length;
