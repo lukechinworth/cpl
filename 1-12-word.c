@@ -23,7 +23,6 @@ int main()
             putchar(c);
         }
 
-        // set previous to c.
         p = c;
     }
 }
